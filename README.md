@@ -1,4 +1,4 @@
-# Projet Web en MVC avec Réécriture d'URL
+# Projet de stage formation développeur web et web mobile en " MVC " avec Réécriture d'URL réaliser du 04/04/2024 au 06/06/2024
 # Description
 Ce projet est un site web développé en utilisant le modèle MVC (Modèle-Vue-Contrôleur) avec une réécriture d'URL grâce à un fichier .htaccess. L'index sert de routeur, gérant les requêtes URL et les dirigeant vers les contrôleurs appropriés. Le projet comprend également une gestion des messages d'erreur, une interaction avec une base de données pour la récupération et la manipulation des données, et une séparation claire entre le front-office et le back-office.
 
