@@ -52,4 +52,4 @@ Les vues sont responsables de l'affichage des données. Elles sont organisées e
 
 # Déploiement
 Pour déployer ce projet, assurez-vous de configurer correctement les fichiers config.php et paths.php selon votre environnement de serveur. Vous devrez également configurer Apache pour permettre la réécriture d'URL via le fichier .htaccess.
-Configurer les pages mention légale et conditions d'utilisation afin que les informations sur l'hébergeur soient à jours.
+Configurer les pages mention légale et conditions d'utilisation afin que les informations sur l'hébergeur soient à jours.# Projet-de-stage-formation-afpa
