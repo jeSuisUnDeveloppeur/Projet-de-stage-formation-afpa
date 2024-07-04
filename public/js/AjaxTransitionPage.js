@@ -75,8 +75,6 @@ document.addEventListener("DOMContentLoaded", function() {
                     currentPage.innerHTML = newContent;
                     currentPage.classList.replace("fade-out","fade-in");
 
-                    // Exécute le script d'initialisation de la google map qui control si l'élément de la carte existe
-                    initMap();
                     // Met à jour le titre de l'onglet de page
                     const newTitle = tempDiv.querySelector('#page-title').innerText;
                     document.getElementById('page-title').innerText = newTitle; 

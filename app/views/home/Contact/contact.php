@@ -39,9 +39,7 @@ ob_start();
         </p>
     </div>
     <!--div pour l'intégration de la google map-->
-    <div id="map">
-
-    </div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24963.37748247397!2d4.720332074693655!3d44.17740424475827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12b599451a17457b%3A0x1b8dab4ac0c2b201!2sMelabio!5e0!3m2!1sfr!2sfr!4v1720098075086!5m2!1sfr!2sfr" id="map" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     <h2 class="text-start fs-3 berliana text-primary fw-bolder mt-5 ms-0 ">
         Réserver votre moment de bien - être
     </h2>

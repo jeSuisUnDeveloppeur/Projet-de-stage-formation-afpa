@@ -25,7 +25,6 @@
         let isHomePage = <?=$is_home_page ?'true':'false'?>;
         let images_url = '<?=IMAGES_URL?>';  
     </script>
-    <script  src ="<?=JS_URL?>map.js"></script>
     <script  src="<?=JS_URL?>bootstrap.js"></script>
     <script src ="<?=JS_URL?>AjaxTransitionPage.js" type="module"></script>
 </body>
